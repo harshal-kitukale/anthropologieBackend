@@ -1,0 +1,32 @@
+
+  {   
+    
+    "data_array3": [
+    {
+      "id": 1,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/994298/1643713113821.jpg?imwidth=940&impolicy=hq",
+      "text": "Tailorman"
+    },
+    {
+      "id": 2,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/994348/1643715968772.jpg?imwidth=940&impolicy=hq",
+      "text": "Disrupt"
+    },
+    {
+      "id": 3,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/994350/1643716033149.jpg?imwidth=940&impolicy=hq",
+      "text": "Simon Carter"
+    },
+    {
+      "id": 4,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/995524/1643867277967.jpg?imwidth=940&impolicy=hq",
+      "text": "Bata"
+    },
+    {
+      "id": 5,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/995525/1643867496758.jpg?imwidth=940&impolicy=hq",
+      "text": "Nike"
+    }
+  ]
+}
+
